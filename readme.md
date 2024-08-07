@@ -68,5 +68,5 @@ install.packages("devtools")
 2. Instale o pacote a partir do repositório:
 
 ```
-install_github("CamaraDosDeputados/dados-abertos/chamberofdeputiesbR")
+install_github("CamaraDosDeputados/chamberofdeputiesbR")
 ```
